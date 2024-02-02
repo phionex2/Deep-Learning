@@ -1,6 +1,6 @@
 # Deep-Learning
-This File contain all the concepts related to deep learning and still in progress........
-All the data set on which I have worked in also included in this repo....or you can download it from kaggle.
+ <p>This File contain all the concepts related to deep learning and still in progress........
+All the data set on which I have worked in also included in this repo....or you can download it from kaggle.</p>
 
 <ul>
   <h3>PERCEPTRON</h3>
