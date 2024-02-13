@@ -9,4 +9,4 @@ ex:In impage processing lower layers may identify the concepts relevant to human
 <ul>
   <h3><b>PERCEPTRON</b></h3>
   <img src="Single-Perceptron.jpg" style="height:200px;width:300px";"float">
-  <li style="float">Perceptron is an alogorithm of an supervised learning algorithm which is designed in such a way that it become the basic building block of the Deep learning or <br> you can that it is an mathematical model</li>
+  <li style="float">Perceptron is an alogorithm of an supervised learning algorithm which is designed in such a way that it become the basic building block of the Deep learning or you can that it is an mathematical model</li>
