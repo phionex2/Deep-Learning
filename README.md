@@ -13,8 +13,8 @@ ex:In impage processing lower layers may identify the concepts relevant to human
  <h4>Perceptron Tricks</h4>
   <P >Coeff_new = Coeff_old - n*Coordinate        <br> where n-learning rate
   <h4>Problem With Perceptron Trick:</h4><br>
-   The Value of w1,w2,b will be given bt this trick are not very sure that it will give 100 percent the best line to classify
-   (i)Quantify Result:It Can't tell that result will not able to tell the classification.
+   The Value of w1,w2,b will be given bt this trick are not very sure that it will give 100 percent the best line to classify<br>
+   (i)Quantify Result:It Can't tell that result will not able to tell the classification.<br>
    (ii)Do not Converge
   </P>
   
