@@ -10,3 +10,10 @@ ex:In impage processing lower layers may identify the concepts relevant to human
   <h3><b>PERCEPTRON</b></h3>
   <img src="Single-Perceptron.jpg" style="height:200px;width:300px";"float">
   <li style="float">Perceptron is an alogorithm of an supervised learning algorithm which is designed in such a way that it become the basic building block of the Deep learning or you can that it is an mathematical model</li>
+ <h4>Perceptron Tricks</h4>
+  <P >Coeff_new = Coeff_old - n*Coordinate        <br> where n-learning rate
+  <h4>Problem With Perceptron Trick:</h4><br>
+   The Value of w1,w2,b will be given bt this trick are not very sure that it will give 100 percent the best line to classify
+   
+  </P>
+  
