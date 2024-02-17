@@ -17,4 +17,4 @@ ex:In impage processing lower layers may identify the concepts relevant to human
    (i)Quantify Result:It Can't tell that result will not able to tell the classification.<br>
    (ii)Do not Converge
   </P>
-  
+ 
