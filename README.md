@@ -2,6 +2,7 @@
  <p>This File contain all the concepts related to deep learning and still in progress........
 All the data set on which I have worked in also included in this repo....or you can download it from kaggle.</p>
 <br>
+
 <h3>Prerequisites</h3>
 <h4>Before running the project, ensure you have the following dependencies installed:</h4>
 <ul>
@@ -12,8 +13,6 @@ All the data set on which I have worked in also included in this repo....or you 
  <li>Matplotlib</li>
 </ul>
 <br>
-
-
 
 <p><h3><b>Basic Defination of Deep Learning:</b></h3>
 Deep learning is a part of a broader family of machine learning methods based on artificial neural networks with representation learning.It uses multiple layers to progressively extract higher level feature from the raw input<br>
