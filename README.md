@@ -32,19 +32,25 @@ ex:In impage processing lower layers may identify the concepts relevant to human
 
 
 <h4>Topics and Descriptions:</h4>
-Backpropagation.ipynb: Introduction to backpropagation algorithm. This notebook covers the fundamentals of backpropagation, a key algorithm used in training neural networks.
+<ul>
+ <li>Backpropagation.ipynb: Introduction to backpropagation algorithm. This notebook covers the fundamentals of backpropagation, a key algorithm used in training neural networks.</li>
+ <li>Backpropagation_classification.ipynb: Application of backpropagation to classification problems. Learn how to apply the backpropagation algorithm to train neural networks for classification tasks.
+</li>
+ <li>Batch_vs_stochastic_Gradient_Descent.ipynb: Comparison between batch and stochastic gradient descent. Understand the differences between these two optimization algorithms commonly used in training machine learning models.</li>
+ <li>
+  Early_stopping.ipynb: Implementation and benefits of early stopping technique. Explore how early stopping can help prevent overfitting and improve model generalization.
 
-Backpropagation_classification.ipynb: Application of backpropagation to classification problems. Learn how to apply the backpropagation algorithm to train neural networks for classification tasks.
-
-Batch_vs_stochastic_Gradient_Descent.ipynb: Comparison between batch and stochastic gradient descent. Understand the differences between these two optimization algorithms commonly used in training machine learning models.
-
-Early_stopping.ipynb: Implementation and benefits of early stopping technique. Explore how early stopping can help prevent overfitting and improve model generalization.
-
-Exponentially_Weighted_Moving_Average.ipynb: Explanation and usage of exponential weighted moving average. Learn about this technique commonly used in optimization algorithms and time series analysis.
-
-LeNET_CNN.ipynb: Implementation of LeNet convolutional neural network. Dive into the architecture and implementation of LeNet, a classic convolutional neural network.
-
-Loss_Function.ipynb: Explanation and comparison of various loss functions. Understand different loss functions and their suitability for different types of machine learning tasks.
+ </li>
+ <li>
+  Exponentially_Weighted_Moving_Average.ipynb: Explanation and usage of exponential weighted moving average. Learn about this technique commonly used in optimization algorithms and time series analysis.
+ </li>
+ <li>
+  LeNET_CNN.ipynb: Implementation of LeNet convolutional neural network. Dive into the architecture and implementation of LeNet, a classic convolutional neural network.
+ </li>
+ <li>
+  Loss_Function.ipynb: Explanation and comparison of various loss functions. Understand different loss functions and their suitability for different types of machine learning tasks.
+ </li>
+</ul>
 
 Perceptron_Trick.ipynb: Introduction to the perceptron learning algorithm. Learn about the basics of perceptrons and how they can be used for binary classification tasks.
 
