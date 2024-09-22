@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-green.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-
 This repository contains a collection of Jupyter Notebook files covering various topics in deep learning. Each notebook includes explanations, code examples, and sometimes datasets for hands-on learning.
 
 ## 📋 Overview
